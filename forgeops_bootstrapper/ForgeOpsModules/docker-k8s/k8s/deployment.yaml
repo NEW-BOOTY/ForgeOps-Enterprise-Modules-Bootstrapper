@@ -1,0 +1,1 @@
+apiVersion: apps/v1\nkind: Deployment\nmetadata:\n  name: docker-k8s-deployment\nspec:\n  replicas: 1\n  template:\n    spec:\n      containers:\n      - name: docker-k8s-container\n        image: alpine:latest

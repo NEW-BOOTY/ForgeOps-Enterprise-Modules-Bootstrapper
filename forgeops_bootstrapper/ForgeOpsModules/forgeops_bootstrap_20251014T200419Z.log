@@ -1,0 +1,91 @@
+2025-10-15T01:04:19Z [INFO] Starting ForgeOps Enterprise Bootstrapper
+2025-10-15T01:04:19Z [INFO] Base directory: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules
+2025-10-15T01:04:19Z [INFO] Scaffolding module: secrets-lifecycle - Secrets Lifecycle Manager
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/README.md
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/bin/entrypoint.sh
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/etc/default.conf
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/lib/utils.sh
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/bin/secrets_cli.py
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/java/pom.xml
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/java/src/main/java/com/forgeops/secrets-lifecycle/Secrets-lifecycleService.java
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/docs/IMPLEMENTATION_NOTES.md
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/tests/run_tests.sh
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/ci/build.sh
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/docker/Dockerfile
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/k8s/deployment.yaml
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle/packaging/build.sh
+2025-10-15T01:04:19Z [INFO] Scaffolding module: fleet-forensics - Fleet Forensics Manager
+2025-10-15T01:04:19Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/README.md
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/bin/entrypoint.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/etc/default.conf
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/lib/utils.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/bin/secrets_cli.py
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/java/pom.xml
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/java/src/main/java/com/forgeops/fleet-forensics/Fleet-forensicsService.java
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/docs/IMPLEMENTATION_NOTES.md
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/tests/run_tests.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/ci/build.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/docker/Dockerfile
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/k8s/deployment.yaml
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics/packaging/build.sh
+2025-10-15T01:04:20Z [INFO] Scaffolding module: metrics-collector - Prometheus Metrics Collector
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/README.md
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/bin/entrypoint.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/etc/default.conf
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/lib/utils.sh
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/bin/secrets_cli.py
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/java/pom.xml
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/java/src/main/java/com/forgeops/metrics-collector/Metrics-collectorService.java
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/docs/IMPLEMENTATION_NOTES.md
+2025-10-15T01:04:20Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/tests/run_tests.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/ci/build.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/docker/Dockerfile
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/k8s/deployment.yaml
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector/packaging/build.sh
+2025-10-15T01:04:21Z [INFO] Scaffolding module: ci-cd - CI/CD Pipeline Stub
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/README.md
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/bin/entrypoint.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/etc/default.conf
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/lib/utils.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/bin/secrets_cli.py
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/java/pom.xml
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/java/src/main/java/com/forgeops/ci-cd/Ci-cdService.java
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/docs/IMPLEMENTATION_NOTES.md
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/tests/run_tests.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/ci/build.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/docker/Dockerfile
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/k8s/deployment.yaml
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd/packaging/build.sh
+2025-10-15T01:04:21Z [INFO] Scaffolding module: docker-k8s - Docker & Kubernetes Scaffold
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/README.md
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/bin/entrypoint.sh
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/etc/default.conf
+2025-10-15T01:04:21Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/lib/utils.sh
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/bin/secrets_cli.py
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/java/pom.xml
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/java/src/main/java/com/forgeops/docker-k8s/Docker-k8sService.java
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/docs/IMPLEMENTATION_NOTES.md
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/tests/run_tests.sh
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/ci/build.sh
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/docker/Dockerfile
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/k8s/deployment.yaml
+2025-10-15T01:04:22Z [INFO] Wrote: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s/packaging/build.sh
+2025-10-15T01:04:22Z [INFO] Starting packaging of all modules...
+2025-10-15T01:04:22Z [INFO] Packaging module: ci-cd
+2025-10-15T01:04:22Z [INFO] Created tarball: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/ci-cd.tar.gz
+2025-10-15T01:04:22Z [INFO] Packaging module: docker-k8s
+2025-10-15T01:04:22Z [INFO] Created tarball: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/docker-k8s.tar.gz
+2025-10-15T01:04:22Z [INFO] Packaging module: fleet-forensics
+2025-10-15T01:04:22Z [INFO] Created tarball: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/fleet-forensics.tar.gz
+2025-10-15T01:04:22Z [INFO] Packaging module: metrics-collector
+2025-10-15T01:04:23Z [INFO] Created tarball: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/metrics-collector.tar.gz
+2025-10-15T01:04:23Z [INFO] Packaging module: secrets-lifecycle
+2025-10-15T01:04:23Z [INFO] Created tarball: /Volumes/Devin_Royal/forgeops_bootstrapper/ForgeOpsModules/secrets-lifecycle.tar.gz
+2025-10-15T01:04:23Z [INFO] All modules packaged successfully.
+2025-10-15T01:04:23Z [INFO] Running all module tests...
+2025-10-15T01:04:23Z [INFO] Executing tests for ci-cd
+2025-10-15T01:04:23Z [INFO] Executing tests for docker-k8s
+2025-10-15T01:04:23Z [INFO] Executing tests for fleet-forensics
+2025-10-15T01:04:23Z [INFO] Executing tests for metrics-collector
+2025-10-15T01:04:23Z [INFO] Executing tests for secrets-lifecycle
+2025-10-15T01:04:23Z [INFO] ForgeOps Enterprise Bootstrapper completed successfully!
